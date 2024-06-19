@@ -1,1 +1,1 @@
-# NefertitiClara Hecho con Meshlab y gracias a la paciencia de los porfesores.
+# NefertitiClara Hecho con Meshlab y gracias a la paciencia de los profesores.
